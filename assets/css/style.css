@@ -1,0 +1,20 @@
+
+.page-form {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+.page-form h3 {
+    margin-top: 0;
+}
+
+input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea {
+    width: 100%!important;
+    max-width: 500px!important;
+}
+
+button.remove-page-form.button {
+    float: right;
+}
